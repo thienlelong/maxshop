@@ -1,0 +1,27 @@
+/*
+Theme Name:         SW Max Shop
+Theme URI:          http://wp.smartaddons.com/themes/sw_maxshop/
+Description:        SW Max Shop is Shop Wordpress Theme.
+Author:             Magentech
+Author URI:         http://magentech.com/
+Version:            2.4.0
+License:            GNU General Public License v2 or later
+*/
+
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+/*
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: rtl-language-support, sticky-post, two-columns
+Text Domain: yatheme
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.woocommerce-page table.shop_table_responsive tbody th{
+display:block;
+}
+.woocommerce table.shop_table_responsive tr td:before, .woocommerce-page table.shop_table_responsive tr td:before {display:none;}

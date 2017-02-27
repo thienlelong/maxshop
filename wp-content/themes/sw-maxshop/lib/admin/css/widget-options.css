@@ -1,0 +1,47 @@
+@CHARSET "ISO-8859-1";
+
+/**
+ * Widget Options
+ */
+
+.advanced-opt .advanced-opt-pane{
+	display: none;
+}
+.advanced-opt.on .advanced-opt-pane{
+	display: block;
+}
+.advanced-opt-controls{
+	border-bottom: 1px solid #DFDFDF;
+    border-radius: 2px 2px 2px 2px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.adoptions-display-content{
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DFDFDF;
+    height: 150px;
+    overflow: auto;
+    padding: 5px 0 0 5px;
+}
+
+.adoptions-display-content ul{
+	margin-top: 0;	
+}
+.adoptions-display-content ul ul{
+	margin-left: 15px;	
+}
+.adoptions-display-content ul li {
+	margin: 2px 0 0;
+}
+.advance-menu{
+	padding-top: 15px;
+	clear: both;
+}
+.advance-menu a.menu-advance-href{
+	background: #3e95d7;
+	color: #fff;
+	display: inline-block;
+	padding: 7px 15px;
+	text-decoration: none;
+	margin-bottom: 15px;
+}

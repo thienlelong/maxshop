@@ -1,0 +1,11 @@
+Files edited:
+- widgets\ya_top\login.php and widgets\ya_top\login-header4.php
+- lib\ultils.php
+- lib\woocommerce-hoook.php
+- lib\nav.php
+- lib\Shortcodes.php
+- lib\shortcodes\ya_slider.php
+- lib\visual-map.php
+- js\main.php
+- replace ya_responsive_menu.php by responsive_dropdown.php
+

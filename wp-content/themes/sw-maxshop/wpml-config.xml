@@ -1,0 +1,26 @@
+<wpml-config>  
+    <custom-types>
+        <custom-type translate="1">partner</custom-type>
+        <custom-type translate="1">testimonial</custom-type>  
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">partners</taxonomy>       
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="translate">_menu_item_type</custom-field>
+        <custom-field action="translate">_menu_item_span</custom-field>
+        <custom-field action="translate">_menu_item_mega_active</custom-field>
+        <custom-field action="translate">_menu_item_imgupload</custom-field>
+        <custom-field action="translate">_menu_item_icon</custom-field>
+        <custom-field action="translate">_menu_item_hide_title</custom-field>
+        <custom-field action="translate">_menu_item_dropdown_span</custom-field>
+        <custom-field action="translate">_menu_item_disable_link</custom-field>
+        <custom-field action="translate">_menu_item_advanced</custom-field>
+        <custom-field action="translate">_menu_item_advanced_content</custom-field>
+        <custom-field action="translate">target</custom-field>
+        <custom-field action="translate">post_views_count</custom-field>
+        <custom-field action="ignore">link</custom-field>
+        <custom-field action="translate">au_name</custom-field>
+        <custom-field action="translate">au_info</custom-field>
+    </custom-fields>
+</wpml-config>
